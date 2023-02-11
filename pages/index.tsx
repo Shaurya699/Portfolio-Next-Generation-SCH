@@ -12,10 +12,12 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      {/* Header */}
       <Header />
 
       {/* Hero */}
+      <section id>
+        
+      </section>
 
       {/* About */}
 
