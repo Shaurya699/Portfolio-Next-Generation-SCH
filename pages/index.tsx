@@ -3,6 +3,7 @@ import Head from 'next/head'
 import About from '../components/About'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
+import Skills from '../components/Skills'
 
 // image https://i.ibb.co/2qgWSMg/portfolio.jpg
 
@@ -28,7 +29,7 @@ const Home: NextPage = () => {
 
       {/* Skills */}
       <section id='skills' className="snap-start">
-        <Skill />
+        <Skills />
       </section>
 
       {/* Projects */}
